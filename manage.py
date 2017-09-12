@@ -1,2 +1,2 @@
-func test(self):
+def test():
 	return true
