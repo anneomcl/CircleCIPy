@@ -1,1 +1,2 @@
-return true
+func test():
+	return true
